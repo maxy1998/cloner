@@ -1,4 +1,4 @@
-Author:- Manthan 
+Author:- Man 
 # Bitbucket / Github Cloner
 
 A simple script to download repos from bitbucket (mostly) and github.
